@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "path must exist: /home/runner/work/CucumberBDD_Testing/CucumberBDD_Testing/src\\test\\resources\\features\\UserResgistration_New.feature",
+      "children" : [ {
+        "name" : "setUpClass",
+        "uid" : "643fcac4be5cd350",
+        "parentUid" : "f0b8c9cca7bc75a8e7c8a16d7dabf01c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1610331213376,
+          "stop" : 1610331213377,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f0b8c9cca7bc75a8e7c8a16d7dabf01c"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}

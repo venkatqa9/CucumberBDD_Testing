@@ -1,0 +1,64 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "fv-az56-539",
+    "children" : [ {
+      "name" : "4059@fv-az56-539.TestNG-test=Regression1-1(12)",
+      "children" : [ {
+        "name" : "setUpClass",
+        "uid" : "643fcac4be5cd350",
+        "parentUid" : "2c31e94e1ad5d51697cd30f6bd66ecd4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1610331213376,
+          "stop" : 1610331213377,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2c31e94e1ad5d51697cd30f6bd66ecd4"
+    } ],
+    "uid" : "4c89586eb8570cd4e8415687a630c319"
+  }, {
+    "name" : "DESKTOP-KR4B5KR",
+    "children" : [ {
+      "name" : "19072@DESKTOP-KR4B5KR.TestNG-test=Regression1-1(13)",
+      "children" : [ {
+        "name" : "Runs Cucumber Scenarios",
+        "uid" : "f5dc632fa06373bb",
+        "parentUid" : "e5c47bd3e0103a61bfbb28e304b1b915",
+        "status" : "passed",
+        "time" : {
+          "start" : 1610222889527,
+          "stop" : 1610223009385,
+          "duration" : 119858
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "\"Create new with different data\"", "\"Create a new user\"" ]
+      } ],
+      "uid" : "e5c47bd3e0103a61bfbb28e304b1b915"
+    }, {
+      "name" : "10900@DESKTOP-KR4B5KR.TestNG-test=Regression1-1(13)",
+      "children" : [ {
+        "name" : "Runs Cucumber Scenarios",
+        "uid" : "ff668bf3d7cf7600",
+        "parentUid" : "571f41d31b7acf7ed5e74ebea55756cb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1610223402996,
+          "stop" : 1610223519806,
+          "duration" : 116810
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "\"Create new with different data\"", "\"Create a new user\"" ]
+      } ],
+      "uid" : "571f41d31b7acf7ed5e74ebea55756cb"
+    } ],
+    "uid" : "f8ff97278afbcf60e4e6132f1c45daad"
+  } ],
+  "name" : "timeline"
+}

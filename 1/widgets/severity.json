@@ -1,0 +1,21 @@
+[ {
+  "uid" : "643fcac4be5cd350",
+  "name" : "setUpClass",
+  "time" : {
+    "start" : 1610331213376,
+    "stop" : 1610331213377,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ff668bf3d7cf7600",
+  "name" : "Runs Cucumber Scenarios",
+  "time" : {
+    "start" : 1610223402996,
+    "stop" : 1610223519806,
+    "duration" : 116810
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

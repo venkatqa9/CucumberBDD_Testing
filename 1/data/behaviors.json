@@ -1,0 +1,31 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "Runs Cucumber Scenarios",
+    "uid" : "ff668bf3d7cf7600",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1610223402996,
+      "stop" : 1610223519806,
+      "duration" : 116810
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "\"Create new with different data\"", "\"Create a new user\"" ]
+  }, {
+    "name" : "setUpClass",
+    "uid" : "643fcac4be5cd350",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1610331213376,
+      "stop" : 1610331213377,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ],
+  "name" : "behaviors"
+}

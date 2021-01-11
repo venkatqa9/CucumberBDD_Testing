@@ -1,0 +1,43 @@
+{
+  "265e2cbd6d6f73409fad07de06144e1c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ff668bf3d7cf7600",
+      "reportUrl" : "https://venkatqa9.github.io/CucumberBDD_Testing/1//#testresult/ff668bf3d7cf7600",
+      "status" : "passed",
+      "time" : {
+        "start" : 1610223402996,
+        "stop" : 1610223519806,
+        "duration" : 116810
+      }
+    } ]
+  },
+  "7d1379b32c416327084a992c93aac3e9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "643fcac4be5cd350",
+      "reportUrl" : "https://venkatqa9.github.io/CucumberBDD_Testing/1//#testresult/643fcac4be5cd350",
+      "status" : "broken",
+      "statusDetails" : "path must exist: /home/runner/work/CucumberBDD_Testing/CucumberBDD_Testing/src\\test\\resources\\features\\UserResgistration_New.feature",
+      "time" : {
+        "start" : 1610331213376,
+        "stop" : 1610331213377,
+        "duration" : 1
+      }
+    } ]
+  }
+}
